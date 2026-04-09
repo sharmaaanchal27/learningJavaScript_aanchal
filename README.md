@@ -1,2 +1,5 @@
 # learningJavaScript_aanchal
-this is my private learning repository
+## editing this file
+## This is my private learning repository
+
+Its a markdown file in this repository
